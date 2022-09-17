@@ -16,4 +16,4 @@ Projeto construído no evento Next Week da Rocketseat.
 
 alex_jjunio@outlook.com
 
-[🔗 Clique aqui para acessar](alexjjunio.github.io_nlw-esports-explorer_.png)
+[🔗 Clique aqui para acessar](https://alexjjunio.github.io/nlw-esports-explorer/)
